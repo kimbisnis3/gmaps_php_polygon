@@ -1,0 +1,36 @@
+Please take a note of the details below these are needed to access your account
+logo
+Your order summary
+DescriptionAmount
+
+            Free Hosting $0.00
+            Item price: $0.00
+
+    Item total $0.00
+
+    Total $0.00 
+
+Your Account Details
+Your account is now active.
+Main Hosting Details
+Control panel username
+	b13_18625878
+Control panel password 	**********
+Control panel URL
+	cpanel.byethost13.com
+MySQL username
+	b13_18625878
+MySQL password
+	**********
+MySQL hostname
+	sql211.byethost13.com
+FTP username
+	b13_18625878
+FTP password
+	**********
+FTP host name 	ftp.byethost13.com
+
+	
+Your Website URL's
+Home page
+	http://surakarta.byethost13.com

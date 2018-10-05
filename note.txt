@@ -1,0 +1,2 @@
+database has changed to solo
+fix all maps
